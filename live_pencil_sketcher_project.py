@@ -15,7 +15,7 @@ def sketch(image):
 	img_gray_blur = cv2.GaussianBlur(img_gray, (5,5), 0)
 
 	# time to extract edges using the best algo, canny
-	canny_edges = cv2.Canny(img_gray_blur, 10, 70)
+	canny_edges = cv2.Canny(img_gray_blur, 10, 70) # can play around with these thresholds
 
 	# need to invert binarize the image. if not done, it will be a black backrground with white edges 
 	ret, mask = cv2.threshold(canny_edges, 70, 255, cv2.THRESH_BINARY_INV)
