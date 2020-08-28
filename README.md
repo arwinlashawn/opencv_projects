@@ -1,13 +1,13 @@
 # opencv_projects
 All mini projects from an OpenCV course.
 
-## Project 1: Live Pencil Sketch App 
+## Project 1: Live Pencil Sketch App
 
 ### Output Preview
 > ![](https://i.imgur.com/VkFQN0W.png)
-> *This is actually a snapshot of where I work : )*
+> *Notice that the edges of the cloud was also captured!*
 
-### Steps 
+### Steps
 1. Convert input image to grayscale
 2. Remove noise using **Gaussian Blur**
 3. Use **Canny** algorithm to detect and extract edges
