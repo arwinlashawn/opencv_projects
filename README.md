@@ -10,7 +10,7 @@ All mini projects from an OpenCV course.
 1. Convert input image to grayscale
 2. Remove noise using **Gaussian Blur**
 3. Use **Canny** algorithm to detect and extract edges
-4. Apply threshold binary inverse to get white backgrond with black edges (pencil sketch effect)
+4. Apply threshold binary inverse to get white background with black edges (pencil sketch effect)
 
 ---
 
