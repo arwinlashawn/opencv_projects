@@ -5,7 +5,7 @@ All mini projects from an OpenCV course.
 
 ### Output Preview
 > ![](https://i.imgur.com/VkFQN0W.png)
-> *Notice that the edges of the cloud was also captured!*
+> *Notice that the edges of the clouds were also captured!*
 
 ### Steps
 1. Convert input image to grayscale
