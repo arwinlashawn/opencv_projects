@@ -5,6 +5,7 @@ All mini projects from an OpenCV course.
 
 ### Output Preview
 > ![](https://i.imgur.com/VkFQN0W.png)
+> *This is actually a snapshot of where I work : )*
 
 ### Steps 
 1. Convert input image to grayscale
