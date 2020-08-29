@@ -47,7 +47,7 @@ All mini projects from an OpenCV course.
 ![](https://i.imgur.com/pjDD4dx.png)
 
 ### Output Preview
-![](https://i.imgur.com/IrWEni1.png)
+![](https://i.imgur.com/414KJFU.png)
 
 ### Steps
 1. Convert both input and template images to grayscale

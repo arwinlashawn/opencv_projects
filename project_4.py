@@ -21,7 +21,7 @@ min_val, max_val, min_loc, max_loc = cv2.minMaxLoc(result)
 # create bounding box
 top_left = max_loc
 bottom_right = (top_left[0] + 200, top_left[1] + 200)
-cv2.rectangle(image, top_left, bottom_right, (0, 255, 0), 5)
+cv2.rectangle(image, top_left, bottom_right, (0, 255, 0), 2)
 
 while cv2.waitKey() != 27:
 	cv2.imshow("There she is!", image)
