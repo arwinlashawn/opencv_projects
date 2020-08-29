@@ -55,6 +55,16 @@ All mini projects from an OpenCV course.
 3. Use `cv2.minMaxLoc()` to return the bounding box/coordinates that Mei was found in
 4. Then use the coordinates to draw the green rectangle encasing the matching object
 
+---
+
+## Project 5: Live Object Detector Using SIFT and ORB
+*No preview available because program is buggy. Need to check documentation.*
+
+---
+
+## Project 6: *Coming Soon*
+
+
 
 
 
