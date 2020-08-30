@@ -41,13 +41,13 @@ All mini projects from an OpenCV course.
 ## Project 4: Object Detector Using Template Image
 
 ### Template Image
-![](https://i.imgur.com/XjCrIAH.png)
+>![](https://i.imgur.com/XjCrIAH.png)
 
 ### Input Preview
-![](https://i.imgur.com/pjDD4dx.png)
+>![](https://i.imgur.com/pjDD4dx.png)
 
 ### Output Preview
-![](https://i.imgur.com/414KJFU.png)
+>![](https://i.imgur.com/414KJFU.png)
 
 ### Steps
 1. Convert both input and template images to grayscale
@@ -62,7 +62,24 @@ All mini projects from an OpenCV course.
 
 ---
 
-## Project 6: *Coming Soon*
+## Project 6: Live Pedestrian and Car Detector
+
+### Pedestrian Detection Preview
+> ![](https://i.imgur.com/88I0ZHP.png)
+
+### Car Detection Preview
+> ![](https://i.imgur.com/wmI3876.jpg)
+
+### Steps
+1. Use .xml files for pedestrians and cars found on GitHub (trained by others)
+2. Read in sample video and make it loop
+3. For every frame of the video, use `detectMultiScale` to determine match
+4. If match is present, draw a rectangle surrounding object
+
+---
+
+## Project 7
+
 
 
 
