@@ -87,7 +87,13 @@ All mini projects from an OpenCV course.
 
 ---
 
+## Project 8: Yawn Detector and Counter
+> *Detects your yawn and returns yamn tally on screen*
 
+### Issues
+1. Many false positives i.e. yamn tally goes up even when you don't open your mouth at all
+
+---
 
 
 
