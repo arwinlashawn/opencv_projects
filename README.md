@@ -95,6 +95,16 @@ All mini projects from an OpenCV course.
 
 ---
 
+## Project 9: Handwritten Digit Recognition
+> *This program assesses the accuracy of the chosen model and is **supposed** to be able to process any input image containing handwritten digits*
+
+### Issues
+1. Processing a new input image containing handwritten digits was unsuccessful, showing this message: `TypeError: '<' not supported between instances of 'NoneType' and 'NoneType'`, referrring to **line 140**
+
+---
+
+
+
 
 
 
