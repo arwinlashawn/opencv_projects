@@ -103,6 +103,14 @@ All mini projects from an OpenCV course.
 
 ---
 
+## Project 10: Face Recognition with Confidence Percentage
+> *This program prints "locked" until the recognized face appears on screen.*
+
+### Issues
+1. Sometimes fails to detect face
+
+---
+
 
 
 
