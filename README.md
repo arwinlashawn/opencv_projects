@@ -91,7 +91,7 @@ All mini projects from an OpenCV course.
 > *Detects your yawn and returns yawn tally on screen*
 
 ### Issues
-1. Many false positives i.e. yamn tally goes up even when you don't open your mouth at all
+1. Many false positives i.e. yawn tally goes up even when you don't open your mouth at all
 
 ---
 
