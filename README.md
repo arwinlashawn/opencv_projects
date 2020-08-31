@@ -79,7 +79,7 @@ All mini projects from an OpenCV course.
 ---
 
 ## Project 7: Live Face Swapper
-> *Does decente face swapping with Donald Trump*
+> *Able to do decent face swapping with Donald Trump*
 
 ### Issues
 1. Does not work with many images downloaded from Google Image
